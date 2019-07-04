@@ -1,0 +1,17 @@
+div {
+    width: 200px;
+    height: 140px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+
+    h1 {
+        color: white;
+        font-family: 'Lato', sans-serif;
+        font-size: 20pt;
+        text-align: center;
+        position: relative;
+        top: 35%;
+    }
+}
